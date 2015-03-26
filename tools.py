@@ -1,4 +1,4 @@
-NAME = "dewarumez"
+NAME = "/dewarumez"
 BASE_URL = "http://pac.bouillaguet.info/TP3"
 
 AFF_ERROR = "Error no {0} : {1}"
